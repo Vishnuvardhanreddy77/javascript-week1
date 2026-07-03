@@ -1,0 +1,11 @@
+// increment 
+let x = 5;
+
+x++;
+console.log(x);
+
+// decrement 
+let y = 10;
+
+y--;
+console.log(y);

@@ -1,0 +1,12 @@
+let age = 20;
+
+let result = age >= 20? "Adult" : "Minor";
+
+console.log(result);
+
+//
+let aged = 20;
+
+let results = aged >= 30? "Adult" : "Minor";
+
+console.log(results);
